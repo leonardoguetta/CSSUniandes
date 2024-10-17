@@ -1,10 +1,16 @@
-h1 {
-    color: rgb(255,165,0)
+h1{
+    color:rgb(255, 165,0)
 }
-
-p {
+p{
     text-align: right;
 }
 body{
     background-color: coral;
+}
+.descripcion{
+    font-weight: bold;
+    color:blue;
+}
+.especial{
+    background-color: lightblue;
 }
