@@ -1,0 +1,21 @@
+h1{
+    color:rgb(255, 165, 0)
+}
+
+p{
+    text-align: right;
+}
+body{
+    background-color: coral;
+}
+.descripcion{
+    font-weight: bold;
+    color:blue;
+}
+.especial{
+    background-color: lightblue;
+}
+#encabezado{
+    background-color: green;
+    text-align: center;
+}
